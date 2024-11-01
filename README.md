@@ -1,4 +1,4 @@
-# This is my IFN 712 research portfolio
+# IFN 712 research portfolio
 # A comparitive analysis of railway availability calculation methododlogy 
 
 ## DATASETS
