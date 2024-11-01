@@ -1,5 +1,5 @@
 # IFN 712 research portfolio
-# A comparitive analysis of railway availability calculation methododlogy 
+# A comparative analysis of railway availability calculation methodology 
 
 ## DATASETS
  ResearchData_Inf-Availability_OCT08-cleaned.xlsx  contains masked data from Queensland Railway 
